@@ -32,5 +32,5 @@ pip install pynvim
 ```
 * Neovim node support  
 ```
-> npm i -g neovim
+npm i -g neovim
 ```
