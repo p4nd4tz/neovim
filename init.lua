@@ -1,0 +1,39 @@
+--require "plugins/nvim-dap"
+--require "plugins/nvim-dap-ui"
+
+require "keymaps"
+require "lsp"
+require "options"
+require "plugins"
+
+-- Plugins
+require "plugins.autocommands"
+require "plugins.autopairs"
+require "plugins.autosave"
+require "plugins.bufferline"
+require "plugins.cmp"
+require "plugins.colorizer"
+require "plugins.colorscheme"
+--require "plugins.copilot"
+require "plugins.cybu"
+require "plugins.dressing"
+require "plugins.fidget"
+require "plugins.gitsigns"
+require "plugins.impatient"
+require "plugins.indent-line"
+require "plugins.inlayhints"
+--require "plugins.lsp-inlayhints"
+require "plugins.lualine"
+require "plugins.notify"
+require "plugins.nvim-comments"
+require "plugins.nvim-tree"
+require "plugins.surround"
+require "plugins.tabout"
+require "plugins.telescope"
+require "plugins.treesitter"
+require "plugins.ts-context"
+require "plugins.zenmode"
+require 'plugins.hop'
+require 'plugins.neoscroll'
+require 'plugins.toggleterm'
+
