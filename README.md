@@ -1,18 +1,12 @@
 # My Neovim Config
 
 ## Try out this config
-Make sure to remove or move your current 
-``` 
-nvim
-``` 
-directory 
-> git clone git@github.com:p4nd4tz/neovim.git ~/.config/nvim
-
-Run 
+Make sure to remove or move your current `` nvim `` directory 
 ```
-nvim
-``` 
-and wait for plugins to be installed
+git clone git@github.com:p4nd4tz/neovim.git ~/.config/nvim
+```
+
+Run `` nvim `` and wait for plugins to be installed
 
 **NOTE:** (You will notice treesitter pulling in a bunch of parsers the next you open neovim)
 
